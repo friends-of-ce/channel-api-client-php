@@ -1,0 +1,15 @@
+{
+	"sortParamsByRequiredFlag": true,
+	"ensureUniqueParams": true,
+	"allowUnicodeIdentifiers": false,
+	"modelPackage": "Model",
+	"apiPackage": "Api",
+	"variableNamingConvention": "camelCase",
+	"invokerPackage": "FriendsOfCE\\Channel\\ApiClient",
+	"packagePath": "",
+	"composerVendorName": "friends-of-ce",
+	"gitUserId": "friends-of-ce",
+	"composerProjectName": "channel-api-client-php",
+	"gitRepoId": "channel-api-client-php",
+	"hideGenerationTimestamp": true
+}
